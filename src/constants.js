@@ -1,0 +1,2 @@
+export  var libraries = [{ name: "Angular", url: "https://angular.io/" }, { name: "React", url: "https://react.dev/" }, { name: "jQuery", url: "https://jquery.com/" }, { name: "react-router-dom", url: "https://reactrouter.com/en/main" }, { name: "redux", url: "https://redux.js.org/" }, { name: "Axios", url: "https://axios-http.com/docs/intro" }, { name: "Bootstrap", url: "https://getbootstrap.com/" }, { name: "tailwindCSS", url: "https://tailwindcss.com/" }]
+
